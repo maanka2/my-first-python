@@ -5,5 +5,5 @@ dizzy = turtle.Turtle()
 dizzy.color("blue") 
 dizzy.width(5)  
 for length in lengths:    
-dizzy.forward(length)    
+dizzy.forward(lengths)    
 dizzy.right(90)
